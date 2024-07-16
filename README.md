@@ -39,7 +39,6 @@ This project was developed by the following individuals:
 2. Bradley Dickens
 3. Sarafina Loyama
 4. Onyando Dickens
-5. Joshua
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
